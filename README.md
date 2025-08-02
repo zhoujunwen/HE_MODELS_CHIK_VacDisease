@@ -12,11 +12,11 @@ Overall, the model consists of five main components.
 5. A decision-analytic model was used to estimate country-specific health-economic outcomes of CHIKV infection with and without CHIKV vaccine administration.
 
 Therefore, this folder contains five folders corresponding to the analyses used in each component
-1 - Estimate CHIKV suitability
-2 - Estimate Force of infection (Forked from https://github.com/sedaradoykova/)
-3 - Map suitability to FOI
-4 - Project annual infection
-5 - Estimate healt-economic burden and vaccine impacts
+1. Estimate CHIKV suitability
+2. Estimate Force of infection (Forked from https://github.com/sedaradoykova/)
+3. Map suitability to FOI
+4. Project annual infection
+5. Estimate healt-economic burden and vaccine impacts
 
 Relevant publication: 
 Zhou J, Salant N, Radoykova HS, Messina J, Wint W, Longbottom J, Holohan KM, Sytsma MLT, Torkelson AA, Cavalcanti LPG, Mukandavire C, Lord J, Smith DRM, Hollingsworth TD, Pouwels K. 
