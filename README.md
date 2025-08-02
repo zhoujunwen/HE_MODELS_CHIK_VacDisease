@@ -18,6 +18,8 @@ Therefore, this folder contains five folders corresponding to the analyses used 
 4. Project annual infection
 5. Estimate healt-economic burden and vaccine impacts
 
+There are README files in each folder for the instruction of modelling and analyses in each component. 
+
 Relevant publication: 
 Zhou J, Salant N, Radoykova HS, Messina J, Wint W, Longbottom J, Holohan KM, Sytsma MLT, Torkelson AA, Cavalcanti LPG, Mukandavire C, Lord J, Smith DRM, Hollingsworth TD, Pouwels K. 
 Health and economic burden of chikungunya infection and potential benefits of vaccination in 32 countries: a vaccine impact modelling study. 2025. 
