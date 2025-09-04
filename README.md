@@ -1,4 +1,4 @@
-# HE_MODEL_CHIK_DiseaseVac
+# HE_MODELS_CHIK_DiseaseVac
 
 Health and economic burden of chikungunya infection and potential benefits of vaccination in 32 countries: a vaccine impact modelling study
 
