@@ -13,10 +13,10 @@ Overall, the model consists of six components.
 6. A decision-analytic model was used to estimate country-specific health-economic outcomes of CHIKV infection with and without CHIKV vaccine administration.
 
 This folder contains four scripts corresponding to the above analyses
-Script 1. Estimate CHIKV suitability
-Script 2. Predict CHIKV FOI and incidence 
-Script 3. Project annual infection
-Script 4. Estimate health-economic burden and vaccine impacts (with small set of data to support the understanding of the model: data_script4.Rdata)
+1. Estimate CHIKV suitability
+2. Predict CHIKV FOI and incidence 
+3. Project annual infection
+4. Estimate health-economic burden and vaccine impacts (with small set of data to support the understanding of the model: data_script4.Rdata)
 
 Relevant publication: 
 Zhou J, Salant N, Radoykova HS, Messina J, Wint W, Longbottom J, Holohan KM, Dinkel KA, Sytsma MLT, Torkelson AA, Cavalcanti LPG, Hollingsworth TD, Lord J, Smith DRM, Pouwels K. 
