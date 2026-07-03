@@ -16,7 +16,7 @@ This folder contains four scripts corresponding to the above analyses
 1. Estimate CHIKV suitability
 2. Predict CHIKV FOI and incidence 
 3. Project annual infection
-4. Estimate health-economic burden and vaccine impacts (with small set of data to support the understanding of the model: data_script4.Rdata)
+4. Estimate health-economic burden and vaccine impacts (a small supporting dataset, data_script4.Rdata, is included to facilitate understanding of the model)
 
 Relevant publication: 
 Zhou J, Salant N, Radoykova HS, Messina J, Wint W, Longbottom J, Holohan KM, Dinkel KA, Sytsma MLT, Torkelson AA, Cavalcanti LPG, Hollingsworth TD, Lord J, Smith DRM, Pouwels K. 
